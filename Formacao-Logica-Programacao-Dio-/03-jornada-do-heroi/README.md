@@ -1,6 +1,6 @@
 # 3️⃣ Desafio de Código: A Jornada do Herói
 
-Terceiro desafio da trilha de Lógica de Programação da [DIO]([https://www.dio.me/](https://web.dio.me/coding/desafio-de-codigo-pontos-de-experiencia/algorithm/pontos-de-experiencia?back=/track/formacao-logica-de-programacao)). O objetivo foi criar um algoritmo simples para calcular a progressão de um personagem em um mapa.
+Terceiro desafio da trilha de Lógica de Programação da [DIO](https://web.dio.me/coding/desafio-de-codigo-pontos-de-experiencia/algorithm/pontos-de-experiencia?back=/track/formacao-logica-de-programacao). O objetivo foi criar um algoritmo simples para calcular a progressão de um personagem em um mapa.
 
 ## 📝 Descrição do Desafio
 O herói está em uma jornada épica e precisa atravessar uma floresta para chegar à caverna do dragão. O programa deve calcular a posição final do herói com base em sua posição inicial e no número de passos dados.
