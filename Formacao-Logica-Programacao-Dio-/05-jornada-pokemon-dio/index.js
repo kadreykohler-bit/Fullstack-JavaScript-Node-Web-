@@ -25,8 +25,8 @@ if (escolhaDoTreinador === 1) {
 
 //Imprime o Pokémon escolhido somente se for valido
 if (pokemonEscolhido) {
-    print(`Voce escolheu o ${pokemonEscolhido} como seu Pokemon inicial.`);
+   console.log(`Voce escolheu o ${pokemonEscolhido} como seu Pokemon inicial.`);
 } else {
     // Caso o usuário digite 3, 6 ou "oi"
-    print("Opcao invalida. Escolha 1, 2, 4 ou 5.");
+    console.log("Opcao invalida. Escolha 1, 2, 4 ou 5.");
 }
