@@ -6,4 +6,4 @@ const totalPassos = parseInt(gets());
 const posicaoFinal = posicaoInicial + totalPassos;
 
 // Exibe o resultado formatado
-print("Posicao final do heroi:", posicaoFinal);
+console.log("Posicao final do heroi:", posicaoFinal);
