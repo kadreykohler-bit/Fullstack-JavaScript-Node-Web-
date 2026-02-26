@@ -16,8 +16,8 @@ for (let sala = 1; sala <= totalSalas; sala++) {
 
 //TODO: Agora implemente uma condição necessária para verificar e exibir se há tesouro na sala e se há montro na sala:
  if (temTesouro) {
-        print(`Tesouro na sala ${sala}!`);
+       console.log(`Tesouro na sala ${sala}!`);
     } else if (temMonstro) {
-        print(`Monstro na sala ${sala}!`);
+        console.log(`Monstro na sala ${sala}!`);
     } 
 }
