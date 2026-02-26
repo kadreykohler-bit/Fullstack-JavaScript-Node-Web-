@@ -15,5 +15,5 @@ if (isNaN(nivelMonstro) || isNaN(dificuldadeBatalha)) {
     const xpGanho = nivelMonstro * dificuldadeBatalha * MULTIPLICADOR_XP;
 
     // 4. Saída limpa
-    print(`Voce ganhou ${xpGanho} XP!`); 
+   console.log(`Voce ganhou ${xpGanho} XP!`); 
 }
