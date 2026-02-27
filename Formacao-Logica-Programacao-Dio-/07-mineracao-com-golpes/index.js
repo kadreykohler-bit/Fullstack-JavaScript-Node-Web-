@@ -1,6 +1,6 @@
-//Desafios JavaScript na DIO têm funções "gets" e "print" acessíveis globalmente:
+//Desafios JavaScript na DIO têm funções "gets" e "console.log" acessíveis globalmente:
 //- "gets" : lê UMA linha com dado(s) de entrada (inputs) do usuário;
-//- "print": imprime um texto de saída (output), pulando linha.
+//- "console.log": imprime um texto de saída (output), pulando linha.
 
 // Lê a quantidade de golpes informada pelo usuário. 
 // O parseInt(()) vai converter os valores de entrada(string) para um valor numérico(Int).
